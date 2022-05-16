@@ -1,4 +1,4 @@
-In this project I'm bulding a recipes website.
+In this project, I'm bulding a recipes website.
 
 This demonstrates my knowledge in fundamentals HTML skills. This is shown through my ability to :
 - Write a boilerplate
